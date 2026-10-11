@@ -567,6 +567,15 @@
       "elapsed_ms": 4975.25,
       "error": null,
       "health_score": 100.0
+    },
+    {
+      "name": "rcloak_all",
+      "url": "https://rcloak.com/api/proxies/raw?protocol=all",
+      "success": true,
+      "proxies_found": 0,
+      "elapsed_ms": 0.0,
+      "error": null,
+      "health_score": 100.0
     }
   ]
 }
